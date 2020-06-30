@@ -1,2 +1,2 @@
 # aula_javascrip
-Introdução ao JavaScript
+Criação do jogo da cobrinha em javascript.
