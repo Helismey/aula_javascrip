@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "D:/Git/aula_javascript/index.html",
+            "url": "D:/Git/snake_aula/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
